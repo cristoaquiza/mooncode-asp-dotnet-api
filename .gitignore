@@ -1,0 +1,5 @@
+.vscode/
+src/Biblioteca.API/bin/
+src/Biblioteca.API/obj/
+test/Biblioteca.API.Test/bin
+test/Biblioteca.API.Test/obj
